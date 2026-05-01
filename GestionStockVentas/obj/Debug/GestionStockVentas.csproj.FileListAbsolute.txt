@@ -1,0 +1,7 @@
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\bin\Debug\GestionStockVentas.exe.config
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\bin\Debug\GestionStockVentas.exe
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\bin\Debug\GestionStockVentas.pdb
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\obj\Debug\GestionStockVentas.csproj.AssemblyReference.cache
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\obj\Debug\GestionStockVentas.csproj.CoreCompileInputs.cache
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\obj\Debug\GestionStockVentas.exe
+C:\Users\DiegoFA\Desktop\Proyects\Clases\.net\into prog 1 y 2\GestionStockVentas\GestionStockVentas\obj\Debug\GestionStockVentas.pdb
