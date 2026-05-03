@@ -38,6 +38,22 @@ namespace GestionStockVentas
             Console.WriteLine("Stock: " + Stock);
         }
 
+        public bool DescontarStock(int cantidad)
+        {
+            if (cantidad <= 0)
+            {  
+                return false;
+            }
+            if (Stock < cantidad)
+            {
+                return false;
+            }
+
+
+            Stock -= cantidad;
+
+            return true;
+        }
 
     }
 }

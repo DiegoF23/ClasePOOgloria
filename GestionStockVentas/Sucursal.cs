@@ -42,5 +42,46 @@ namespace GestionStockVentas
                 Console.WriteLine("--------------------------------");
             }
         }
+        public Producto BuscarProductoPorCodigo(int codigo)
+        {
+                foreach (Producto producto in Productos)
+                {
+                    if (producto.Codigo == codigo)
+                    {
+                        return producto;
+                    }
+                }
+            return null; 
+        }
+
+        public decimal VenderProducto(int codigo, int cantidad)
+        {
+            Producto producto = BuscarProductoPorCodigo(codigo);
+
+            if (producto == null)
+            {
+                Console.WriteLine("Producto no encontrado.");
+                return 0;
+            }
+
+            bool ventaCorrecta = producto.DescontarStock(cantidad);
+
+            if (ventaCorrecta == false)
+            {
+                Console.WriteLine("Stock insuficiente o cantidad inválida.");
+                return 0;
+            }
+
+            decimal total = producto.CalcularPrecioFinal() * cantidad;
+
+            Console.WriteLine("***************************************");
+            Console.WriteLine("Venta realizada con éxito.");
+            Console.WriteLine("Total: $" + total);
+            Console.WriteLine("Stock restante: " + producto.Stock);
+            Console.WriteLine("***************************************");
+
+            return total;
+        }
+
     }
 }

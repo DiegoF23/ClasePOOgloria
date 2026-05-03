@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\gestionstockventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\gestionstockventas\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\gestionstockventas\\lavarropas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\lavarropas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\gestionstockventas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|c:\\users\\diegofa\\desktop\\proyects\\clases\\.net\\into prog 1 y 2\\gestionstockventas\\gestionstockventas\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|c:\\users\\diegofa\\desktop\\proyects\\clases\\.net\\into prog 1 y 2\\gestionstockventas\\gestionstockventas\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\televisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|c:\\users\\diegofa\\desktop\\proyects\\clases\\.net\\into prog 1 y 2\\gestionstockventas\\gestionstockventas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|c:\\users\\diegofa\\desktop\\proyects\\clases\\.net\\into prog 1 y 2\\gestionstockventas\\gestionstockventas\\lavarropas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\lavarropas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|c:\\users\\diegofa\\desktop\\proyects\\clases\\.net\\into prog 1 y 2\\gestionstockventas\\gestionstockventas\\heladera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\gestionstockventas\\heladera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\heladera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|c:\\users\\diegofa\\desktop\\proyects\\clases\\.net\\into prog 1 y 2\\gestionstockventas\\gestionstockventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5262F130-BB2F-4DD6-B3B7-8FE67AF345DE}|GestionStockVentas\\GestionStockVentas.csproj|solutionrelative:gestionstockventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Sucursal.cs",
               "DocumentMoniker": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Sucursal.cs",
               "RelativeDocumentMoniker": "GestionStockVentas\\Sucursal.cs",
               "ToolTip": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Sucursal.cs",
               "RelativeToolTip": "GestionStockVentas\\Sucursal.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwBgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAewEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T23:10:56.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Program.cs",
               "RelativeDocumentMoniker": "GestionStockVentas\\Program.cs",
               "ToolTip": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Program.cs",
               "RelativeToolTip": "GestionStockVentas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAewKgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T23:08:43.567Z",
               "EditorCaption": ""
@@ -65,12 +65,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionStockVentas\\Producto.cs",
+              "ToolTip": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Producto.cs",
+              "RelativeToolTip": "GestionStockVentas\\Producto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA2wB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T23:09:58.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Lavarropas.cs",
               "DocumentMoniker": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Lavarropas.cs",
               "RelativeDocumentMoniker": "GestionStockVentas\\Lavarropas.cs",
               "ToolTip": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Lavarropas.cs",
               "RelativeToolTip": "GestionStockVentas\\Lavarropas.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwCcAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T23:10:44.083Z",
               "EditorCaption": ""
@@ -83,14 +96,14 @@
               "RelativeDocumentMoniker": "GestionStockVentas\\Televisor.cs",
               "ToolTip": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Televisor.cs",
               "RelativeToolTip": "GestionStockVentas\\Televisor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T23:10:16.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Heladera.cs",
               "DocumentMoniker": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Heladera.cs",
               "RelativeDocumentMoniker": "GestionStockVentas\\Heladera.cs",
@@ -98,21 +111,7 @@
               "RelativeToolTip": "GestionStockVentas\\Heladera.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T23:10:31.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Producto.cs",
-              "RelativeDocumentMoniker": "GestionStockVentas\\Producto.cs",
-              "ToolTip": "C:\\Users\\DiegoFA\\Desktop\\Proyects\\Clases\\.net\\into prog 1 y 2\\GestionStockVentas\\GestionStockVentas\\Producto.cs",
-              "RelativeToolTip": "GestionStockVentas\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T23:09:58.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T23:10:31.936Z"
             }
           ]
         }
